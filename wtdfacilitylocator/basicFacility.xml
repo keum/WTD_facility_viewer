@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="basicFacility.xsl"?>
+
+<wtdFacility>
+	<facility>
+		<LAT>47.58352793</LAT>
+		<LNG>-122.40121044</LNG>
+		<FACILITY_N>53rd Pump Station</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>53rd Ave Pump Station</LABEL>
+		<STREET>2301 Alki Ave SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98116</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.60445728</LAT>
+		<LNG>-122.20443134</LNG>
+		<FACILITY_N>Bellevue PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Bellevue Pump Station</LABEL>
+		<STREET>595 102nd Ave SE</STREET>
+		<CITY>Bellevue</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98004</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/bellevue/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.30519272</LAT>
+		<LNG>-122.00601419</LNG>
+		<FACILITY_N>Black Diamond PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Black Diamond Pump Station</LABEL>
+		<STREET>32923 Railroad Ave</STREET>
+		<CITY>Black Diamond</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98010</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/sooscreek/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.57821164</LAT>
+		<LNG>-122.12310379</LNG>
+		<FACILITY_N>Heathfield PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Heathfield Pump Station</LABEL>
+		<STREET>3541 163rd Ave SE</STREET>
+		<CITY>Bellevue</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98008</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.52312253</LAT>
+		<LNG>-122.26497568</LNG>
+		<FACILITY_N>S Henderson PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>S Henderson Pump Station</LABEL>
+		<STREET>5327 S Henderson St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98118</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/henderson-cso/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.7109661</LAT>
+		<LNG>-122.14206458</LNG>
+		<FACILITY_N>Hollywood PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Hollywood Pump Station</LABEL>
+		<STREET>14815 NE 124th St</STREET>
+		<CITY>Redmond</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98052</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.4786834</LAT>
+		<LNG>-122.26205892</LNG>
+		<FACILITY_N>Interurban PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Interurban Pump Station</LABEL>
+		<STREET>13980 Interurban Ave S</STREET>
+		<CITY>Tukwila</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98168</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.70556789</LAT>
+		<LNG>-122.21827081</LNG>
+		<FACILITY_N>Juanita Bay PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Juanita Bay Pump Station</LABEL>
+		<STREET>9290 Juanita Dr NE</STREET>
+		<CITY>Juanita</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98034</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/juanita/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.67658812</LAT>
+		<LNG>-122.20366298</LNG>
+		<FACILITY_N>Kirkland PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Kirkland Pump Station</LABEL>
+		<STREET>3rd St and Park Lane</STREET>
+		<CITY>Kirkland</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98033</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.27013043</LAT>
+		<LNG>-122.22127647</LNG>
+		<FACILITY_N>Lakeland Hills PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Lakeland Hills Pump Station</LABEL>
+		<STREET>699 Orvalez Rd</STREET>
+		<CITY>Auburn</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98092</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.61733357</LAT>
+		<LNG>-122.23154549</LNG>
+		<FACILITY_N>Medina PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Medina Pump Station</LABEL>
+		<STREET>NE 8th St and 81st Ave NE</STREET>
+		<CITY>Medina</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98039</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.76275679</LAT>
+		<LNG>-122.1844652</LNG>
+		<FACILITY_N>North Creek PS/Storage</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>North Creek Pump Station/Storage</LABEL>
+		<STREET>18707 N Creek Pkwy</STREET>
+		<CITY>Bothell</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98011</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/ncstorage/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.59098164</LAT>
+		<LNG>-122.23602831</LNG>
+		<FACILITY_N>North Mercer PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>North Mercer Pump Station</LABEL>
+		<STREET>7631 SE 22nd St</STREET>
+		<CITY>Mercer Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98040</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/ncstorage/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.2683538</LAT>
+		<LNG>-122.25621481</LNG>
+		<FACILITY_N>Pacific PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Pacific Pump Station</LABEL>
+		<STREET>102 Tacoma Blvd, S</STREET>
+		<CITY>Pacific</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98047</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/pacific/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.53838903</LAT>
+		<LNG>-122.21057749</LNG>
+		<FACILITY_N>South Mercer PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>S Mercer Pump Station</LABEL>
+		<STREET>E Mercer Wy and SE 72nd St</STREET>
+		<CITY>Mercer Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98040</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.468377</LAT>
+		<LNG>-122.240639</LNG>
+		<FACILITY_N>South Treatment Plant</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>South Treatment Plant</LABEL>
+		<STREET>1200 Monster Rd SW</STREET>
+		<CITY>Renton</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98057</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/southplant/</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.57631875</LAT>
+		<LNG>-122.11135633</LNG>
+		<FACILITY_N>Sunset PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Sunset Pump Station</LABEL>
+		<STREET>3730 W Lake Sammamish Pkwy SE</STREET>
+		<CITY>Bellevue</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98027</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.58276297</LAT>
+		<LNG>-122.18772532</LNG>
+		<FACILITY_N>Sweyolocken PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Sweyolocken Pump Station</LABEL>
+		<STREET>3100 Bellevue Wy SE</STREET>
+		<CITY>Bellevue</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98004</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/sweyolocken.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.60244339</LAT>
+		<LNG>-122.17997734</LNG>
+		<FACILITY_N>Wiburton PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Wilburton Pump Station</LABEL>
+		<STREET>SE 10th St and 121 St Ave</STREET>
+		<CITY>Bellevue</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98005</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.64917175</LAT>
+		<LNG>-122.20417551</LNG>
+		<FACILITY_N>Yarrow Bay PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Yarrow Bay Pump Station</LABEL>
+		<STREET>4400 Lake Washington Blvd NE</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98033</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.7117254</LAT>
+		<LNG>-122.15216801</LNG>
+		<FACILITY_N>York PS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>York Pump Station</LABEL>
+		<STREET>14120 NE 124th St</STREET>
+		<CITY>Redmond</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98034</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/york/index.htm</HTMLLINK>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5334879</LAT>
+		<LNG>-122.32296705</LNG>
+		<FACILITY_N>8th Ave RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>8th Ave Regulator Station</LABEL>
+		<STREET>760 S Portland St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98108</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.66381493</LAT>
+		<LNG>-122.29569743</LNG>
+		<FACILITY_N>30th Ave PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>30th Ave Pump Station</LABEL>
+		<STREET>4703 30th Ave NE</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98105</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.57231426</LAT>
+		<LNG>-122.41326768</LNG>
+		<FACILITY_N>63rd Ave PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>63rd Ave Pump Station</LABEL>
+		<STREET>3535 Beach Dr SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98116</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.574543</LAT>
+		<LNG>-122.416951</LNG>
+		<FACILITY_N>Alki CSO TP</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Alki CSO Plant</LABEL>
+		<STREET>3380 Beach Dr. SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98116</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.66434555</LAT>
+		<LNG>-122.38189242</LNG>
+		<FACILITY_N>Ballard RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Ballard Regulator Station</LABEL>
+		<STREET>5110 Shilshole Ave NW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98107</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.52333979</LAT>
+		<LNG>-122.39353313</LNG>
+		<FACILITY_N>Barton PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Barton Pump Station</LABEL>
+		<STREET>9005 Fauntleroy Way SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98136</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/westseattle/index</HTMLLINK>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.65673409</LAT>
+		<LNG>-122.28640947</LNG>
+		<FACILITY_N>Belvoir PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Belvoir Pump Station</LABEL>
+		<STREET>3901 Surber Dr NE</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98105</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.55430056</LAT>
+		<LNG>-122.33789276</LNG>
+		<FACILITY_N>Brandon RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Brandon Regulator Station</LABEL>
+		<STREET>5241 E Marginal Way S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.71086147</LAT>
+		<LNG>-122.36987553</LNG>
+		<FACILITY_N>Carkeek CSO TP</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Carkeek CSO Plant</LABEL>
+		<STREET>1201 NW Carkeek Park Dr</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98177</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.57249104</LAT>
+		<LNG>-122.35926383</LNG>
+		<FACILITY_N>Chelan RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Chelan Regulator Station</LABEL>
+		<STREET>3455 Chelan Ave SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98106</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5922934</LAT>
+		<LNG>-122.33697031</LNG>
+		<FACILITY_N>Connecticut RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Connecticut Regulator Station</LABEL>
+		<STREET>1199 Alaskan Way S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.61843179</LAT>
+		<LNG>-122.36010536</LNG>
+		<FACILITY_N>Denny RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Denny Regulator Station</LABEL>
+		<STREET>3165 Alaskan Way</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98121</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.63228925</LAT>
+		<LNG>-122.34228046</LNG>
+		<FACILITY_N>Dexter RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Dexter Regulator Station</LABEL>
+		<STREET>1419 Dexter Ave N</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98109</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.56293504</LAT>
+		<LNG>-122.33991457</LNG>
+		<FACILITY_N>Duwamish PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Duwamish Pump Station</LABEL>
+		<STREET>4501 E Marginal Wy S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.62454283</LAT>
+		<LNG>-122.36638657</LNG>
+		<FACILITY_N>Elliott West CSO Facility</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Elliott West CSO Facility</LABEL>
+		<STREET>545 Elliott Ave W</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98119</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/dennyway/index.htm</HTMLLINK>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.53661879</LAT>
+		<LNG>-122.31778871</LNG>
+		<FACILITY_N>E Marginal Way PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>E Marginal Way Pump Station</LABEL>
+		<STREET>7319 E Marginal Wy S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98108</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.61502001</LAT>
+		<LNG>-122.28119645</LNG>
+		<FACILITY_N>E Pine PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>East Pine Pump Station</LABEL>
+		<STREET>1600 Lake Wash Blvd</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98122</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.57588181</LAT>
+		<LNG>-122.34025423</LNG>
+		<FACILITY_N>Hanford RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Hanford Regulator Station</LABEL>
+		<STREET>2999 E Marginal Wy S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5720725</LAT>
+		<LNG>-122.37047222</LNG>
+		<FACILITY_N>Harbor RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Harbor Regulator Station</LABEL>
+		<STREET>3432 Harbor Ave SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98126</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.75185963</LAT>
+		<LNG>-122.37232707</LNG>
+		<FACILITY_N>Hidden Lake PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Hidden Lake Pump Station</LABEL>
+		<STREET>16700 10th Ave NW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98177</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/hiddenlake.htm</HTMLLINK>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.63315948</LAT>
+		<LNG>-122.37771756</LNG>
+		<FACILITY_N>Interbay PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Interbay Pump Station</LABEL>
+		<STREET>1601 W Garfield St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98119</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.75787363</LAT>
+		<LNG>-122.2523291</LNG>
+		<FACILITY_N>Kenmore PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Kenmore Pump Station</LABEL>
+		<STREET>6719 NE 175th St</STREET>
+		<CITY>Kenmore</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98028</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.59829719</LAT>
+		<LNG>-122.33614802</LNG>
+		<FACILITY_N>King RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>King Regulator Station</LABEL>
+		<STREET>499 Alaskan Way S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.7773732</LAT>
+		<LNG>-122.33411616</LNG>
+		<FACILITY_N>Lake Ballinger PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Lake Ballinger Pump Station</LABEL>
+		<STREET>2205 N 205 St</STREET>
+		<CITY>Shoreline</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98133</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.65610491</LAT>
+		<LNG>-122.32041618</LNG>
+		<FACILITY_N>Lake City Tunnel RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Lake City Tunnel Regulator Station</LABEL>
+		<STREET>708 40th St NE</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98105</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5799112</LAT>
+		<LNG>-122.34029639</LNG>
+		<FACILITY_N>Lander RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Lander Regulator Station</LABEL>
+		<STREET>Colorado Ave S and S Lander St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.75793733</LAT>
+		<LNG>-122.26432079</LNG>
+		<FACILITY_N>Logboom RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Logboom Regulator Station</LABEL>
+		<STREET>6001 NE Bothell Way</STREET>
+		<CITY>Kenmore</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98028</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.69640623</LAT>
+		<LNG>-122.27596829</LNG>
+		<FACILITY_N>Matthews Park PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Matthews Park Pump Station</LABEL>
+		<STREET>9310 Sand Pt Way NE</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98115</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/matthews/index.ht</HTMLLINK>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.64646281</LAT>
+		<LNG>-122.3046809</LNG>
+		<FACILITY_N>Montlake RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Montlake Regulator Station</LABEL>
+		<STREET>2910 Mountlake Blvd E</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98105</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.53984497</LAT>
+		<LNG>-122.39667415</LNG>
+		<FACILITY_N>Murray PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Murray Pump Station</LABEL>
+		<STREET>7015 Beach Dr SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98136</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5136637</LAT>
+		<LNG>-122.29450875</LNG>
+		<FACILITY_N>Norfolk RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Norfolk Regulator Station</LABEL>
+		<STREET>10000 E Marginal Wy S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98108</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.70149627</LAT>
+		<LNG>-122.39048727</LNG>
+		<FACILITY_N>North Beach PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>North Beach Pump Station</LABEL>
+		<STREET>9921 Triton Dr NW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98117</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.56969234</LAT>
+		<LNG>-122.29129741</LNG>
+		<FACILITY_N>Rainier PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Rainier Pump Station</LABEL>
+		<STREET>3761 Rainier Ave S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98144</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.77513314</LAT>
+		<LNG>-122.39202878</LNG>
+		<FACILITY_N>Richmond Beach PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Richmond Pump Station</LABEL>
+		<STREET>20001 Richmond Beach Dr NW</STREET>
+		<CITY>Shoreline</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98177</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/hiddenlake.htm</HTMLLINK>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.54478691</LAT>
+		<LNG>-122.33157988</LNG>
+		<FACILITY_N>S Michigan RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>S Michigan Regulator Station</LABEL>
+		<STREET>159 S Michigan St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98108</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.65046746</LAT>
+		<LNG>-122.306985</LNG>
+		<FACILITY_N>University RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>University Regulator Station</LABEL>
+		<STREET>1901 NE Pacific Place</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98105</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.53896239</LAT>
+		<LNG>-122.3403289</LNG>
+		<FACILITY_N>W Marginal PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>W Marginal Pump Station</LABEL>
+		<STREET>7119 W Marginal Wy SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98106</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.54103225</LAT>
+		<LNG>-122.34366072</LNG>
+		<FACILITY_N>W Michigan RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>W Michigan Regulator Station</LABEL>
+		<STREET>6769 W Marginal Wy SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98106</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.66185068</LAT>
+		<LNG>-122.42881444</LNG>
+		<FACILITY_N>WestPoint Treatment Plant</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>West Point Treatment Plant</LABEL>
+		<STREET>1400 Utah St W</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98199</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/westpoint/</HTMLLINK>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5757897</LAT>
+		<LNG>-122.37151953</LNG>
+		<FACILITY_N>W Seattle PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>W Seattle Pump</LABEL>
+		<STREET>3041Harbor Ave SW</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98126</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.75428913</LAT>
+		<LNG>-122.16808524</LNG>
+		<FACILITY_N>Woodinville PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Woodinville Pump Station</LABEL>
+		<STREET>12900 Woodinville Duvall Rd</STREET>
+		<CITY>Woodinville</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98072</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.50829723</LAT>
+		<LNG>-122.46439485</LNG>
+		<FACILITY_N>Bunker Trail 1 PS</FACILITY_N>
+		<FLOW>Vashon Treatment Collection System</FLOW>
+		<LABEL>Bunker Trail 1 Pump Station</LABEL>
+		<STREET>Emergency 206-684-1280</STREET>
+		<CITY>Vashon Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98070</ZIPCODE>
+		<EMERGENCYN>206-684-1280</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.50744496</LAT>
+		<LNG>-122.46509328</LNG>
+		<FACILITY_N>Bunker Trail 2 PS</FACILITY_N>
+		<FLOW>Vashon Treatment Collection System</FLOW>
+		<LABEL>Bunker Trail 2 Pump Station</LABEL>
+		<STREET>Emergency 206-684-1280</STREET>
+		<CITY>Vashon Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98072</ZIPCODE>
+		<EMERGENCYN>206-684-1280</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.50420186</LAT>
+		<LNG>-122.46548006</LNG>
+		<FACILITY_N>Bunker Trail 3 PS</FACILITY_N>
+		<FLOW>Vashon Treatment Collection System</FLOW>
+		<LABEL>Bunker Trail 3 Pump Station</LABEL>
+		<STREET>Emergency 206-684-1280</STREET>
+		<CITY>Vashon Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98072</ZIPCODE>
+		<EMERGENCYN>206-684-1280</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.49842558</LAT>
+		<LNG>-122.46805988</LNG>
+		<FACILITY_N>Bunker Trail 4 PS</FACILITY_N>
+		<FLOW>Vashon Treatment Collection System</FLOW>
+		<LABEL>Bunker Trail 4 Pump Station</LABEL>
+		<STREET>Emergency 206-684-1280</STREET>
+		<CITY>Vashon Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98072</ZIPCODE>
+		<EMERGENCYN>206-684-1280</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.451813</LAT>
+		<LNG>-122.457185</LNG>
+		<FACILITY_N>Vashon Treatment Plant</FACILITY_N>
+		<FLOW>Vashon Treatment Collection System</FLOW>
+		<LABEL>Vashon Treatment Plant</LABEL>
+		<STREET>9621 SW 171 St</STREET>
+		<CITY>Vashon Island</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98072</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/vashon</HTMLLINK>
+		<EMERGENCYN>206-684-1280</EMERGENCYN>
+	</facility>
+</wtdFacility>
