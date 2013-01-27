@@ -1,1 +1,6 @@
-PK's notes
+Using GoogleMap API and ESRI's ArcGIS Server to display King County's Wastewater Treatment Facilities. Facilities
+including: Regional Treatment Plants - West, South, Brightwater, Carnation & Vashon Island. 
+Various Pump Stations, Regulator Stations, Wet Weather Treatment Plants and King County Sewer Line 
+and local sewer line. 
+
+Except for local sewer line, the data is generated from King County WTD GIS group.
