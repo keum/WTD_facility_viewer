@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="basicFacility.xsl"?>
+<!--this data table in xml is updated on Aug 29 2013 -->
 
 <wtdFacility>
 	<facility>
@@ -12,6 +13,19 @@
 		<CITY>Seattle</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98116</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.513908</LAT>
+		<LNG>-122.288732</LNG>
+		<FACILITY_N>Allentown RS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Allentown Regulator Station</LABEL>
+		<STREET>Airport Way S and S Norfolk St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98108</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/bellevue/index.htm</HTMLLINK>
 		<EMERGENCYN>206-684-2404</EMERGENCYN>
 	</facility>
 	<facility>
@@ -50,6 +64,19 @@
 		<CITY>Bellevue</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98008</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.514097</LAT>
+		<LNG>-122.28075</LNG>
+		<FACILITY_N>Henderson-MLK CSO Facility</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Henderson-MLK CSO Facility</LABEL>
+		<STREET>9829 42nd Ave S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98039</ZIPCODE>
+		<HTMLLINK>http://dnr.metrokc.gov/wtd/henderson-cso/index.htm</HTMLLINK>
 		<EMERGENCYN>206-684-2404</EMERGENCYN>
 	</facility>
 	<facility>
@@ -129,6 +156,30 @@
 	<facility>
 		<LAT>47.61733357</LAT>
 		<LNG>-122.23154549</LNG>
+		<FACILITY_N>Lake Union Tunnel RS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>Lake Union Tunnel Regulator Station</LABEL>
+		<STREET>Republican St and 8th Ave N</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98109</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.522677</LAT>
+		<LNG>-122.28065</LNG>
+		<FACILITY_N>MLK Tunnel RS</FACILITY_N>
+		<FLOW>South Treatment Collection System</FLOW>
+		<LABEL>MLK Tunnel Regulator Station</LABEL>
+		<STREET>4207 S Fairbanks St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98039</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.61733357</LAT>
+		<LNG>-122.23154549</LNG>
 		<FACILITY_N>Medina PS</FACILITY_N>
 		<FLOW>South Treatment Collection System</FLOW>
 		<LABEL>Medina Pump Station</LABEL>
@@ -170,7 +221,7 @@
 		<FACILITY_N>Pacific PS</FACILITY_N>
 		<FLOW>South Treatment Collection System</FLOW>
 		<LABEL>Pacific Pump Station</LABEL>
-		<STREET>102 Tacoma Blvd, S</STREET>
+		<STREET>100 Frontage Road N</STREET>
 		<CITY>Pacific</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98047</ZIPCODE>
@@ -246,7 +297,7 @@
 		<FLOW>South Treatment Collection System</FLOW>
 		<LABEL>Yarrow Bay Pump Station</LABEL>
 		<STREET>4400 Lake Washington Blvd NE</STREET>
-		<CITY>Seattle</CITY>
+		<CITY>Kirkland</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98033</ZIPCODE>
 		<EMERGENCYN>206-684-2404</EMERGENCYN>
@@ -352,6 +403,18 @@
 	<facility>
 		<LAT>47.55430056</LAT>
 		<LNG>-122.33789276</LNG>
+		<FACILITY_N>Boeing Creek RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Boeing Creek Regulator Station</LABEL>
+		<STREET>17229 3rd Ave NW</STREET>
+		<CITY>Shoreline</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98177</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.55430056</LAT>
+		<LNG>-122.33789276</LNG>
 		<FACILITY_N>Brandon RS</FACILITY_N>
 		<FLOW>West Point Treatment Collection Sys</FLOW>
 		<LABEL>Brandon Regulator Station</LABEL>
@@ -362,8 +425,32 @@
 		<EMERGENCYN>206-263-3840</EMERGENCYN>
 	</facility>
 	<facility>
-		<LAT>47.71086147</LAT>
-		<LNG>-122.36987553</LNG>
+		<LAT>47.78825</LAT>
+		<LNG>-122.140498</LNG>
+		<FACILITY_N>Brightwater Treament Plant</FACILITY_N>
+		<FLOW>Brightwater Treatment Sys</FLOW>
+		<LABEL>Brightwater Treatment Plant</LABEL>
+		<STREET>Woodinville Snohomish Rd NE</STREET>
+		<CITY>Woodinville</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98072</ZIPCODE>
+		<EMERGENCYN>206-263-3840 </EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.78825</LAT>
+		<LNG>-122.140498</LNG>
+		<FACILITY_N>Brightwater Influent PS</FACILITY_N>
+		<FLOW>Brightwater Influent Pump Station</FLOW>
+		<LABEL>Brightwater Influent Pump Station</LABEL>
+		<STREET>11711 NE 195th St</STREET>
+		<CITY>Bothell</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98106</ZIPCODE>
+		<EMERGENCYN>206-263-3840 </EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.71076</LAT>
+		<LNG>-122.370941</LNG>
 		<FACILITY_N>Carkeek CSO TP</FACILITY_N>
 		<FLOW>West Point Treatment Collection Sys</FLOW>
 		<LABEL>Carkeek CSO Plant</LABEL>
@@ -372,6 +459,30 @@
 		<STATE>WA</STATE>
 		<ZIPCODE>98177</ZIPCODE>
 		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.710861</LAT>
+		<LNG>-122.36987553</LNG>
+		<FACILITY_N>Carkeek PS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Carkeek Pump Station</LABEL>
+		<STREET>1201 NW Carkeek Park Dr</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98177</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.647535</LAT>
+		<LNG>-122.918374</LNG>
+		<FACILITY_N>Carnation TP</FACILITY_N>
+		<FLOW>Carnation Treatment Collection Sys</FLOW>
+		<LABEL>Carnation Treament Plant</LABEL>
+		<STREET>4405 Larson Ave W</STREET>
+		<CITY>Carnation</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98014</ZIPCODE>
+		<EMERGENCYN>206-684-2404</EMERGENCYN>
 	</facility>
 	<facility>
 		<LAT>47.57249104</LAT>
@@ -501,7 +612,7 @@
 		<FLOW>West Point Treatment Collection Sys</FLOW>
 		<LABEL>Hidden Lake Pump Station</LABEL>
 		<STREET>16700 10th Ave NW</STREET>
-		<CITY>Seattle</CITY>
+		<CITY>Shoreline</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98177</ZIPCODE>
 		<HTMLLINK>http://dnr.metrokc.gov/wtd/projects/hiddenlake.htm</HTMLLINK>
@@ -573,7 +684,19 @@
 		<FACILITY_N>Lander RS</FACILITY_N>
 		<FLOW>West Point Treatment Collection Sys</FLOW>
 		<LABEL>Lander Regulator Station</LABEL>
-		<STREET>Colorado Ave S and S Lander St</STREET>
+		<STREET>S Lander St and E Marginal Way S</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98134</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
+		<LAT>47.5799112</LAT>
+		<LNG>-122.34029639</LNG>
+		<FACILITY_N>Lander2 RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>Lander2 Regulator Station</LABEL>
+		<STREET>S Lander St and Colorado Ave S</STREET>
 		<CITY>Seattle</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98134</ZIPCODE>
@@ -680,9 +803,9 @@
 	<facility>
 		<LAT>47.54478691</LAT>
 		<LNG>-122.33157988</LNG>
-		<FACILITY_N>S Michigan RS</FACILITY_N>
+		<FACILITY_N>Michigan RS</FACILITY_N>
 		<FLOW>West Point Treatment Collection Sys</FLOW>
-		<LABEL>S Michigan Regulator Station</LABEL>
+		<LABEL>Michigan Regulator Station</LABEL>
 		<STREET>159 S Michigan St</STREET>
 		<CITY>Seattle</CITY>
 		<STATE>WA</STATE>
@@ -731,7 +854,7 @@
 		<FACILITY_N>WestPoint Treatment Plant</FACILITY_N>
 		<FLOW>West Point Treatment Collection Sys</FLOW>
 		<LABEL>West Point Treatment Plant</LABEL>
-		<STREET>1400 Utah St W</STREET>
+		<STREET>1400 Discovery Park Blvd</STREET>
 		<CITY>Seattle</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98199</ZIPCODE>
@@ -739,11 +862,23 @@
 		<EMERGENCYN>206-263-3840</EMERGENCYN>
 	</facility>
 	<facility>
+		<LAT>47.5723012</LAT>
+		<LNG>-122.412635</LNG>
+		<FACILITY_N>W Seattle RS</FACILITY_N>
+		<FLOW>West Point Treatment Collection Sys</FLOW>
+		<LABEL>W Seattle Regulator Station</LABEL>
+		<STREET>6208 SW Spokane St</STREET>
+		<CITY>Seattle</CITY>
+		<STATE>WA</STATE>
+		<ZIPCODE>98116</ZIPCODE>
+		<EMERGENCYN>206-263-3840</EMERGENCYN>
+	</facility>
+	<facility>
 		<LAT>47.5757897</LAT>
 		<LNG>-122.37151953</LNG>
 		<FACILITY_N>W Seattle PS</FACILITY_N>
 		<FLOW>West Point Treatment Collection Sys</FLOW>
-		<LABEL>W Seattle Pump</LABEL>
+		<LABEL>W Seattle Pump Station</LABEL>
 		<STREET>3041Harbor Ave SW</STREET>
 		<CITY>Seattle</CITY>
 		<STATE>WA</STATE>
@@ -816,7 +951,7 @@
 		<FACILITY_N>Vashon Treatment Plant</FACILITY_N>
 		<FLOW>Vashon Treatment Collection System</FLOW>
 		<LABEL>Vashon Treatment Plant</LABEL>
-		<STREET>9621 SW 171 St</STREET>
+		<STREET>9615 SW 171 St</STREET>
 		<CITY>Vashon Island</CITY>
 		<STATE>WA</STATE>
 		<ZIPCODE>98072</ZIPCODE>
@@ -824,3 +959,4 @@
 		<EMERGENCYN>206-684-1280</EMERGENCYN>
 	</facility>
 </wtdFacility>
+
