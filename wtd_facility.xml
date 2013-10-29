@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- this is data for WTD facilities containing lat and long Aug 28 2013 updated-->
+<markers>
+	<!-- WTD facilities that send sewers to SOUTH TP -->
+	<marker lat="47.58352793262" lng="-122.40121043928" label="&lt;h4&gt;South Treatment Collection System &lt;/h4&gt;"/>
+	
+	<marker lat="47.513866" lng="-122.288665" html="&lt;b&gt;Allentown Regulator Station&lt;/b&gt;&lt;br&gt;Airport Way S and S Norfolk St&lt;br&gt;Seattle, WA 98108&lt;br&gt; Emergency 206-684-2404" label="Allentown RS"/>
+	<marker lat="47.604452" lng="-122.204291" html='&lt;b&gt;Bellevue Pump Station&lt;/b&gt;&lt;br&gt;595 102nd Ave SE&lt;br&gt;Bellevue, WA 98004&lt;br&gt;Emergency 206-684-2404&lt;br&gt;&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/Bellevue.aspx"&gt;More Information&lt;/a&gt;' label="Bellevue PS"/>
+	<marker lat="47.305064" lng="-122.006291" html='&lt;b&gt;Black Diamond Pump Station&lt;/b&gt;&lt;br&gt;32923 Railroad Ave&lt;br&gt;Black Diamond, WA 98010&lt;br&gt;Emergency 206-684-2404&lt;br&gt;&lt;a href="http://dnr.metrokc.gov/wtd/projects/sooscreek/index.htm"&gt;More Information&lt;/a&gt;' label="Black Diamond PS"/>
+	<marker lat="47.57821163571" lng="-122.12310378622" html="&lt;b&gt;Heathfield Pump Station&lt;/b&gt;&lt;br&gt;3541 163rd Ave SE&lt;br&gt;Bellevue, WA 98008&lt;br&gt;Emergency 206-684-2404" label="Heathfield PS"/>
+	<marker lat="47.52312252514" lng="-122.26497568313" html="&lt;b&gt;Henderson Pump Station&lt;/b&gt;&lt;br&gt;5327 S Henderson S&lt;br&gt;Seattle, WA 98118&lt;br&gt;Emergency 206-684-2404" label="Henderson PS"/>
+	<marker lat="47.514098" lng="-122.28075" html='&lt;b&gt;Henderson-MLK Wet Weather &lt;/b&gt;&lt;br&gt;9829 42nd Ave S&lt;br&gt;Seattle, WA 98039&lt;br&gt;Emergency 206-684-2404&lt;br&gt;&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/HendersonCSO.aspx"&gt;More Information&lt;/a&gt;' label="Henderson-MLK Wet Weather"/>
+	<marker lat="47.71096609601" lng="-122.14206458328" html="&lt;b&gt;Hollywood Pump Station&lt;/b&gt;&lt;br&gt;14815 NE 124th St&lt;br&gt;Redmond, WA 98052&lt;br&gt;Emergency 206-684-2404" label="Hollywood PS"/>
+	<marker lat="47.478606" lng="-122.261905" html="&lt;b&gt;Interurban Pump Station&lt;/b&gt;&lt;br&gt;13980 Interurban Ave S&lt;br&gt;Tukwila, WA 98168&lt;br&gt;	Emergency 206-684-2404" label="Interurban PS"/>
+	<marker lat="47.705651" lng="-122.21757" html='&lt;b&gt;Juanita Bay Pump Station&lt;/b&gt;&lt;br&gt;9290 Juanita Dr NE&lt;br&gt;Juanita, WA 98034&lt;br&gt;	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/JuanitaBay.aspx"&gt;More Information&lt;/a&gt;' label="Juanita Bay PS"/>
+	<marker lat="47.592588" lng="-122.333349" html="&lt;b&gt;Kingdome Regulator Station&lt;/b&gt;&lt;br&gt;
+	Emergency 206-684-2404" label="Kingdome RS"/>
+	<marker lat="47.67658812382" lng="-122.20366297708" html="&lt;b&gt;Kirkland Pump Station&lt;/b&gt;&lt;br&gt;3rd St and Park Lane&lt;br&gt;Kirkland, WA 98033&lt;br&gt;
+	Emergency 206-684-2404" label="Kirkland PS"/>
+	<marker lat="47.27013042598" lng="-122.22127646575" html="&lt;b&gt;Lakeland Hills Pump Station&lt;/b&gt;&lt;br&gt;699 Oravetz Rd SE&lt;br&gt;Auburn, WA 98092&lt;br&gt;
+	Emergency 206-684-2404" label="Lakeland Hills PS"/>
+	<marker lat="47.522624" lng="-122.280546" html="&lt;b&gt;MLK Tunnel Regulator Station&lt;/b&gt;&lt;br&gt;4207 S Fairbanks St&lt;br&gt;Seattle, WA 98039&lt;br&gt;
+	Emergency 206-684-2404" label="MLK Tunnel RS"/>
+	<marker lat="47.617264" lng="-122.231642" html="&lt;b&gt;Medina Pump Station&lt;/b&gt;&lt;br&gt;NE 8th St and 81st Ave NE&lt;br&gt;Medina, WA 98039&lt;br&gt;
+	Emergency 206-684-2404" label="Medina PS"/>
+	<marker lat="47.7627567908" lng="-122.18446520053" html='&lt;b&gt;North Creek Pump Station/Storage&lt;/b&gt;&lt;br&gt;18707 N Creek Pkwy&lt;br&gt;Bothell, WA 98011&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/NorthCreekStorage.aspx"&gt;More Information&lt;/a&gt;' label="North Creek PS/Storage"/>
+	<marker lat="47.59098164404" lng="-122.23602831002" html="&lt;b&gt;North Mercer Pump Station&lt;/b&gt;&lt;br&gt;7631 SE 22nd St&lt;br&gt;Mercer Island, WA 98040&lt;br&gt;
+	Emergency 206-684-2404" label="North Mercer PS"/>
+	<marker lat="47.268282" lng="-122.258864" html='&lt;b&gt;Pacific Pump Station&lt;/b&gt;&lt;br&gt;100 Frontage Rd N&lt;br&gt;Pacific, WA 98047&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/PacificPS.aspx"&gt;More Information&lt;/a&gt;' label="Pacific PS"/>
+	<marker lat="47.53838902667" lng="-122.21057749338" html="&lt;b&gt;S Mercer Pump Station&lt;/b&gt;&lt;br&gt;E Mercer Wy and SE 72nd St&lt;br&gt;Mercer Island, WA 98040;&lt;br&gt;
+	Emergency 206-684-2404" label="South Mercer PS"/>
+	<marker lat="47.468377" lng="-122.240639" html='&lt;b&gt;South Treatment Plant&lt;/b&gt;&lt;br&gt;1200 Monster Rd SW&lt;br&gt;Renton, WA 98057&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/About/System/South.aspx"&gt;More Information	&lt;/a&gt;' label="South Treatment Plant"/>
+	<marker lat="47.5763187499" lng="-122.11135633253" html="&lt;b&gt;Sunset Pump Station&lt;/b&gt;&lt;br&gt;3730 W Lake Sammamish Pkwy SE&lt;br&gt;Bellevue, WA 98027&lt;br&gt;
+	Emergency 206-684-2404" label="Sunset PS"/>
+	<marker lat="47.582491" lng="-122.187530" html='&lt;b&gt;Sweyolocken Pump Station&lt;/b&gt;&lt;br&gt;3100 Bellevue Wy SE&lt;br&gt;Bellevue, WA 98004&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/SweyolockenPS.aspx"&gt;More Information&lt;/a&gt;' label="Sweyolocken PS"/>
+	<marker lat="47.6024433932" lng="-122.17997733651" html="&lt;b&gt;Wilburton Pump Station&lt;/b&gt;&lt;br&gt;SE 10th St and 121 St Ave&lt;br&gt;Bellevue, WA 98005&lt;br&gt;
+	Emergency 206-684-2404" label="Wiburton PS"/>
+	<marker lat="47.64917175163" lng="-122.20417550573" html="&lt;b&gt;Yarrow Bay Pump Station&lt;/b&gt;&lt;br&gt;4400 Lake Washington Blvd NE&lt;br&gt;Kirkland, WA 98033&lt;br&gt;
+	Emergency 206-684-2404" label="Yarrow Bay PS"/>
+	<marker lat="47.71172540312" lng="-122.15216800527" html='&lt;b&gt;York Pump Station&lt;/b&gt;&lt;br&gt;14120 NE 124th St&lt;br&gt;Redmond, WA 98034&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/YorkGenerator.aspx"&gt;More Information &lt;/a&gt;' label="York PS&lt;br&gt;&lt;br&gt;"/>
+	
+	<!-- Facilities that send wastewater to WEST POINT TP -->
+	<marker lat="47.58352793262" lng="-122.40121043928" label="&lt;h4&gt;West Point Treatment Collection System &lt;/h4&gt;"/>
+	<marker lat="47.53348790135" lng="-122.32296705423" html="&lt;b&gt;8th Ave Regulator Station;&lt;/b&gt;&lt;br&gt;760 S Portland St&lt;br&gt; Seattle, WA 98108 &lt;br&gt;
+	Emergency 206-263-3840" label="8th Ave RS"/>
+	<marker lat="47.663814927" lng="-122.2956974326" html="&lt;b&gt;30th Ave Pump Station&lt;/b&gt;&lt;br&gt;4703 30th Ave NE&lt;br&gt;Seattle, WA 98105&lt;br&gt;
+	Emergency 206-263-3840" label="30th Ave PS"/>
+	<marker lat="47.58352793262" lng="-122.40121043928" html="&lt;b&gt;53rd Ave Pump Station&lt;/b&gt;&lt;br&gt;2301 Alki Ave SW&lt;br&gt;Seattle, WA 98116&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt; " label="53rd PS"/> 
+	<marker lat="47.57231425791" lng="-122.41326768189" html="&lt;b&gt;63rd Ave Pump Station&lt;/b&gt;&lt;br&gt;3535 Beach Dr SW&lt;br&gt;Seattle, WA 98116&lt;br&gt;
+	Emergency 206-684-2404" label="63rd Ave PS"/>
+	<marker lat="47.574543" lng="-122.416951" html="&lt;b&gt;Alki Wet Weather Facility&lt;/b&gt;&lt;br&gt;3380 Beach Dr. SW&lt;br&gt;Seattle, WA 98116&lt;br&gt;
+	Emergency 206-684-2404" label="Alki Wet Weather Facility"/>
+	<marker lat="47.66434554538" lng="-122.38189241914" html="&lt;b&gt;Ballard Regulator Station&lt;/b&gt;&lt;br&gt;5110 Shilshole Ave NW&lt;br&gt;Seattle, WA 98107&lt;br&gt;
+	Emergency 206-263-3840" label="Ballard RS"/>
+	<marker lat="47.52333979336" lng="-122.39353313314" html='&lt;b&gt;Barton Pump Station&lt;/b&gt;&lt;br&gt;9005 Fauntleroy Way SW&lt;br&gt;Seattle, WA 98136&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Seattle/BartonSt.aspx"&gt;More Information&lt;/a&gt;' label="Barton PS"/>
+	<marker lat="47.656734" lng="-122.28641" html="&lt;b&gt;Belvoir Pump Station&lt;/b&gt;&lt;br&gt;3901 Surber Dr NE&lt;br&gt;Seattle, WA 98105&lt;br&gt;
+	Emergency 206-263-3840" label="Belvoir PS"/>
+	<marker lat="47.755847" lng="-122.36256" html="&lt;b&gt;Boeing Creek Regulator Station&lt;/b&gt;&lt;br&gt;17229 3rd Ave NW&lt;br&gt;Shoreline, WA 98177&lt;br&gt;
+	Emergency 206-263-3840" label="Boeing Creek RS"/>
+	<marker lat="47.554300559" lng="-122.33789276294" html="&lt;b&gt;Brandon Regulator Station&lt;/b&gt;&lt;br&gt;5241 E Marginal Way S&lt;br&gt;Seattle, WA 98134&lt;br&gt;
+	Emergency 206-263-3840" label="Brandon RS"/>
+	<marker lat="47.710861" lng="-122.369875" html="&lt;b&gt;Carkeek Pump Station&lt;/b&gt;&lt;br&gt;1201 NW Carkeek Park Dr&lt;br&gt;Seattle, WA 98177&lt;br&gt;
+	Emergency 206-263-3840" label="Carkeek PS"/>
+	<marker lat="47.710880" lng="-122.370704" html="&lt;b&gt;Carkeek Wet Weather Facility&lt;/b&gt;&lt;br&gt;1201 NW Carkeek Park Dr&lt;br&gt;Seattle, WA 98177&lt;br&gt;
+	Emergency 206-263-3840" label="Carkeek Wet Weather Facility"/>
+	<marker lat="47.57249103732" lng="-122.35926382607" html="&lt;b&gt;Chelan Regulator Station&lt;/b&gt;&lt;/b&gt;&lt;br&gt;3455 Chelan Ave SW&lt;br&gt;Seattle, WA 98106&lt;br&gt;
+	Emergency 206-263-3840" label="Chelan RS"/>
+	<marker lat="47.592222" lng="-122.336955" html="&lt;b&gt;Connecticut Regulator Station&lt;/b&gt;&lt;br&gt;1199 Alaskan Way S&lt;br&gt;Seattle, WA 98134&lt;br&gt;
+	Emergency 206-263-3840" label="Connecticut RS"/>
+	<marker lat="47.61843179326" lng="-122.36010535914" html="&lt;b&gt;Denny Regulator Station&lt;/b&gt;&lt;br&gt;3165 Alaskan Way&lt;br&gt;Seattle, WA 98121&lt;br&gt;
+	Emergency 206-263-3840" label="Denny RS"/>
+	<marker lat="47.63228925129" lng="-122.34228046206" html="&lt;b&gt;Dexter Regulator Station&lt;/b&gt;&lt;br&gt;1419 Dexter Ave N&lt;br&gt;Seattle, WA 98109&lt;br&gt;
+	Emergency 206-263-3840" label="Dexter RS"/>
+	<marker lat="47.56293503941" lng="-122.3399145741" html="&lt;b&gt;Duwamish Pump Station&lt;/b&gt;&lt;br&gt;4501 E Marginal Wy S&lt;br&gt;Seattle, WA 98134&lt;br&gt;
+	Emergency 206-263-3840" label="Duwamish PS"/>
+	<marker lat="47.624542831" lng="-122.366386569" html='&lt;b&gt;Elliott West Wet Weather Facility&lt;/b&gt;&lt;br&gt;545 Elliott Ave W&lt;br&gt;Seattle, WA 98119&lt;br&gt;
+	Emergency 206-263-3840&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/ElliottWestRepair.aspx"&gt;More Information&lt;/a&gt;' label="Elliott West Wet Weather Facility"/>
+	<marker lat="47.53661879104" lng="-122.31778871211" html="&lt;b&gt;E Marginal Way Pump Station&lt;/b&gt;&lt;br&gt;7319 E Marginal Wy S&lt;br&gt;Seattle, WA 98108&lt;br&gt;
+	Emergency 206-263-3840" label="E Marginal Way PS"/>
+	<marker lat="47.61502001402" lng="-122.28119644971" html="&lt;b&gt;East Pine Pump Station&lt;/b&gt;&lt;br&gt;1600 Lake Wash Blvd&lt;br&gt;Seattle, WA 98122&lt;br&gt;
+	Emergency 206-263-3840" label="E Pine PS"/>
+	<marker lat="47.57588181259" lng="-122.34025423373" html="&lt;b&gt;Hanford Regulator Station&lt;/b&gt;&lt;br&gt;2999 E Marginal Wy S&lt;br&gt;Seattle,WA 98134&lt;br&gt;
+	Emergency 206-263-3840" label="Hanford RS"/>
+	<marker lat="47.57207250274" lng="-122.37047222205" html="&lt;b&gt;Harbor Regulator Station&lt;/b&gt;&lt;br&gt;3432 Harbor Ave SW&lt;br&gt;Seattle, WA 98126&lt;br&gt;
+	Emergency 206-263-3840" label="Harbor RS"/>
+	<marker lat="47.751881" lng="-122.372013" html='&lt;b&gt;Hidden Lake Pump Station&lt;/b&gt;&lt;br&gt;16700 10th Ave NW&lt;br&gt;Shoreline, WA 98177&lt;br&gt;
+	Emergency 206-263-3840&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/HiddenLake.aspx"&gt;More Information&lt;/a&gt;' label="Hidden Lake PS"/>
+	<marker lat="47.63315947907" lng="-122.37771755706" html="&lt;b&gt;Interbay Pump Station&lt;/b&gt;&lt;br&gt;1601 W Garfield St&lt;br&gt; Seattle, WA 98119&lt;br&gt;
+	Emergency 206-263-3840" label="Interbay PS"/>
+	<marker lat="47.75787363438" lng="-122.25232910441" html="&lt;b&gt;Kenmore Pump Station&lt;/b&gt;&lt;br&gt;6719 NE 175th St&lt;br&gt; Kenmore, WA 98028&lt;br&gt;
+	Emergency 206-263-3840" label="Kenmore PS"/>
+	<marker lat="47.59829718962" lng="-122.33614802465" html="&lt;b&gt;King Regulator Station&lt;/b&gt;&lt;br&gt;499 Alaskan Way S&lt;br&gt;Seattle, WA 98134&lt;br&gt;
+	Emergency 206-263-3840" label="King RS"/>
+	<marker lat="47.77737320012" lng="-122.33411615793" html="&lt;b&gt;Lake Ballinger Pump Station&lt;/b&gt;&lt;br&gt;2205 N 205 St&lt;br&gt;Shoreline, WA 98133&lt;br&gt;
+	Emergency 206-263-3840" label="Lake Ballinger PS"/>
+	<marker lat="47.65610491002" lng="-122.32041618265" html="&lt;b&gt;Lake City Tunnel Regulator Station&lt;/b&gt;&lt;br&gt;708 40th St NE&lt;br&gt; Seattle, WA 98105&lt;br&gt;
+	Emergency 206-263-3840" label="Lake City Tunnel RS"/>
+	<marker lat="47.623231" lng="-122.341008" html="&lt;b&gt;Lake Union Tunnel Regulator Station&lt;/b&gt;&lt;br&gt;Republican St and 8th Ave N&lt;br&gt; Seattle, WA 98109&lt;br&gt;
+	Emergency 206-263-3840" label="Lake Union Tunnel RS"/>
+	<marker lat="47.57991120462" lng="-122.34029639382" html="&lt;b&gt;Lander Regulator Station&lt;/b&gt;&lt;br&gt;S Lander St and E Marginal Way S&lt;br&gt;Seattle, WA 98134&lt;br&gt;
+	Emergency 206-263-3840" label="Lander RS"/>
+	<marker lat="47.579749" lng="-122.336471" html="&lt;b&gt;Landers2 Regulator Station&lt;/b&gt;&lt;br&gt;S Lander St and Colorado Ave S&lt;br&gt;Seattle, WA 98134&lt;br&gt;
+	Emergency 206-684-2404" label="Landers2 RS"/>
+	<marker lat="47.757923" lng="-122.264703" html="&lt;b&gt;Logboom Regulator Station&lt;/b&gt;&lt;br&gt;6001 NE Bothell Way&lt;br&gt; Kenmore, WA 98028&lt;br&gt;
+	Emergency 206-263-3840" label="Logboom RS"/>
+	<marker lat="47.69640623146" lng="-122.27596828911" html='&lt;b&gt;Matthews Park Pump Station&lt;/b&gt;&lt;br&gt;9310 Sand Pt Way NE&lt;br&gt; Seattle, WA 98115&lt;br&gt;
+	Emergency 206-263-3840&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/MatthewsPark.aspx"&gt;More Information&lt;/a&gt;' label="Matthews Park PS"/>
+	<marker lat="47.54478690609" lng="-122.33157988458" html="&lt;b&gt;Michigan Regulator Station&lt;/b&gt;&lt;br&gt;159 S Michigan St&lt;br&gt;Seattle, WA 98108&lt;br&gt;
+	Emergency 206-263-3840" label="Michigan RS"/>
+	<marker lat="47.646463" lng="-122.304681" html="&lt;b&gt;Montlake Regulator Station&lt;/b&gt;&lt;br&gt;2910 Mountlake Blvd E&lt;br&gt; Seattle, WA 98105&lt;br&gt;
+	Emergency 206-263-3840" label="Montlake RS"/>
+	<marker lat="47.53984496949" lng="-122.39667415384" html="&lt;b&gt;Murray Pump Station&lt;/b&gt;&lt;br&gt;7015 Beach Dr SW&lt;br&gt;Seattle, WA 98136&lt;br&gt;
+	Emergency 206-684-2404" label="Murray PS"/>
+	<marker lat="47.51366370236" lng="-122.29450875074" html="&lt;b&gt;Norfolk Regulator Station&lt;/b&gt;&lt;br&gt;10000 E Marginal Wy S&lt;br&gt;Seattle, WA 98108&lt;br&gt;
+	Emergency 206-263-3840" label="Norfolk RS"/>
+	<marker lat="47.701459" lng="-122.390690" html="&lt;b&gt;North Beach Pump Station&lt;/b&gt;&lt;br&gt;9921 Triton Dr NW&lt;br&gt; Seattle, WA 98117&lt;br&gt;
+	Emergency 206-263-3840" label="North Beach PS"/>
+	<marker lat="47.56969233801" lng="-122.29129741485" html="&lt;b&gt;Rainier Pump Station&lt;/b&gt;&lt;br&gt;3761 Rainier Ave S&lt;br&gt; Seattle, WA 98144&lt;br&gt;
+	Emergency 206-263-3840" label="Rainier PS"/>
+	<marker lat="47.77513313969" lng="-122.3920287826" html='&lt;b&gt;Richmond Pump Station&lt;/b&gt;&lt;br&gt;20001 Richmond Beach Dr NW&lt;br&gt;	Shoreline, WA 98177&lt;br&gt;
+	Emergency 206-263-3840&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/Construction/Completed/HiddenLake.aspx"&gt;More Information&lt;/a&gt;' label="Richmond Beach PS"/>
+	<marker lat="47.65046746289" lng="-122.30698499844" html="&lt;b&gt;University Regulator Station&lt;/b&gt;&lt;br&gt;1901 NE Pacific Place&lt;br&gt; Seattle, WA 98105&lt;br&gt;
+	Emergency 206-263-3840" label="University RS"/>
+	<marker lat="47.53896238726" lng="-122.34032890433" html="&lt;b&gt;W Marginal Pump Station&lt;/b&gt;&lt;br&gt;7119 W Marginal Wy SW&lt;br&gt;Seattle, WA 98106&lt;br&gt;
+	Emergency 206-263-3840" label="W Marginal PS"/>
+	<marker lat="47.54103224866" lng="-122.34366071867" html="&lt;b&gt;W Michigan Regulator Station&lt;/b&gt;&lt;br&gt;6769 W Marginal Wy SW&lt;br&gt;Seattle, WA 98106&lt;br&gt; 
+	Emergency 206-263-3840" label="W Michigan RS"/>
+	<marker lat="47.572301" lng="-122.412635" html="&lt;b&gt;West Seattle Regulator Station&lt;/b&gt;&lt;br&gt;6208 SW Spokane St&lt;br&gt;Seattle, WA 98116&lt;br&gt;
+	Emergency 206-263-3840" label="W Seattle RS"/>
+	
+	<marker lat="47.661850683" lng="-122.42881444" html='&lt;b&gt;West Point Treatment Plant&lt;/b&gt;&lt;br&gt;1400 Discovery Park Blvd &lt;br&gt;Seattle, WA 98199&lt;br&gt;
+	Emergency 206-263-3840&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/About/System/West.aspx"&gt;More Information&lt;/a&gt;' label="WestPoint Treatment Plant"/>
+	<marker lat="47.57578969755" lng="-122.37151953091" html="&lt;b&gt;W Seattle Pump Station&lt;/b&gt;&lt;br&gt;3041 Harbor Ave SW&lt;br&gt;Seattle, WA 98126&lt;br&gt;
+	Emergency 206-263-3840" label="W Seattle PS"/>
+	<marker lat="47.75428912537" lng="-122.1680852393" html='&lt;b&gt;Woodinville Pump Station&lt;/b&gt;&lt;br&gt;12900 Woodinville Duvall Rd&lt;br&gt; Woodinville, WA 98072&lt;br&gt;
+	Emergency 206-263-3840' label="Woodinville PS&lt;br&gt;&lt;br&gt;&lt;br&gt;"/>
+	<marker lat="47.788254" lng="-122.140498" html='&lt;b&gt;Brightwater Treatment Plant&lt;/b&gt;&lt;br&gt; Hwy 9 and 228th St SE&lt;br&gt; Woodinville, WA 98072&lt;br&gt;'
+	 label="Brightwater Treatment Plant&lt;br&gt;"/>
+	<marker lat="47.768697" lng="-122.183758" html="&lt;b&gt;BW Influent Pump Station&lt;/b&gt;&lt;br&gt;11711 NE 195th St&lt;br&gt;Bothell, WA 98106&lt;br&gt;
+	Emergency 206-263-3840" label="BrightWater Influent PS&lt;br&gt;&lt;br&gt;"/>
+	<!-- Vashon Island Facilities -->
+	<!--<marker lat="47.58352793262" lng="-122.40121043928" label="&lt;h4&gt;Vashon Treatment Collection System &lt;/h4&gt;"/> -->
+	<marker lat="47.508297228" lng="-122.464394847" html="&lt;b&gt;Bunker Trail 1 Pump Station&lt;/b&gt;&lt;br&gt;Emergency 206-684-1280" label="Bunker Trail 1 PS"/>
+	<marker lat="47.507444964" lng="-122.465093275" html="&lt;b&gt;Bunker Trail 2 Pump Station&lt;/b&gt;&lt;br&gt;Emergency 206-684-1280" label="Bunker Trail 2 PS"/>
+	<marker lat="47.504201861" lng="-122.465480056" html="&lt;b&gt;Bunker Trail 3 Pump Station&lt;/b&gt;&lt;br&gt;Emergency 206-684-1280" label="Bunker Trail 3 PS"/>
+	<marker lat="47.498425583" lng="-122.468059881" html="&lt;b&gt;Bunker Trail 4 Pump Station&lt;/b&gt;&lt;br&gt;Emergency 206-684-1280" label="Bunker Trail 4 PS"/>
+	<marker lat="47.451909" lng="-122.455775" html='&lt;b&gt;Vashon Treatment Plant&lt;/b&gt;&lt;br&gt;9615 SW 171 St&lt;br&gt;Vashon Island, WA 98070&lt;br&gt;
+	Emergency 206-684-1280&lt;br&gt;
+	&lt;a href="http://www.kingcounty.gov/environment/wtd/About/System/Vashon/History/Dedication.aspx"&gt;More Information &lt;/a&gt;' label="Vashon Treatment Plant"/>
+	<!-- Carnation Treatment Plant-->
+	<marker lat="47.647597" lng="-121.918377" html='&lt;b&gt;Carnation Treatment Plant&lt;/b&gt;&lt;br&gt;4405 Larson Ave W&lt;br&gt;Carnation, WA 98014&lt;br&gt;
+	Emergency 206-684-2404&lt;br&gt;&lt;a href="http://www.kingcounty.gov/environment/wtd/About/System/Carnation.aspx"&gt;More Information&lt;/a&gt;' label="Carnation Treatment Plant"/>
+	
+</markers>
