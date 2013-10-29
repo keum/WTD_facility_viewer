@@ -44,7 +44,7 @@
             </form>
         </div>
         <div id="funcs">
-            <!--<div id="printlink"><a href="/transportation/kcdot/Roads.aspx?print=1">PRINT-FRIENDLY</a></div>-->
+            
             <div id="sitemap">
                 <a href="http://www.kingcounty.gov/environment/wtd.aspx">SITEMAP </a>
             </div>
@@ -61,7 +61,7 @@
                 title="WTD" class="crumb"> </a> &raquo; <span class="crumb">Facility Locator</span></div>
   <!--  <form id="form1" runat="server">
     <div id="contentcol">
-        <strong>We apologize… </strong>
+        <strong>We apologizeâ€¦ </strong>
         <br />
         <br />
 
@@ -104,7 +104,7 @@ If you wish to contact us, please send us an <a href="mailto:admin.roads@kingcou
     <table border=1>
       <tr>
         <td>
-           <div id="map" style="width: 650px; height: 450px"></div>
+           <div id="map" style="width: 750px; height: 600px"></div>
         </td>
         <td width = 175 valign="top" style="text-decoration: underline; color: #4444ff;">
            <div id="sidebar" style="overflow:auto; height:450px;"></div>
@@ -218,7 +218,7 @@ If you wish to contact us, please send us an <a href="mailto:admin.roads@kingcou
       var mapOptions = {opacity: 0.85, minResolution:0, maxResolution: 19};
 
       //create custom tile layer
-      var tiledmap = new esri.arcgis.gmaps.TiledMapServiceLayer("http://trvcragsdev/arcgis/rest/services/keum/wtdmashup_dev/MapServer", mapOptions, addTiledMap);
+      var tiledmap = new esri.arcgis.gmaps.TiledMapServiceLayer("http://cragsdev/arcgis/rest/services/keum/wtdmashup_20121107/MapServer", mapOptions, addTiledMap);
     
     function addTiledMap(gTileLayer) {
       //Add tile layer as a GTileLayerOverlay using mapExtension
